@@ -1,1 +1,18 @@
+body {
+	font-size: 20px;
+	color: white;
+	background-color: #DAA520;
+	font-family: Arial, Helvetica, sans-serif;
+}
 
+.ring{
+	margin-top: 100px;
+	border-radius: 141px;
+	border: 3px;
+}
+p {
+	text-align: center;
+}
+h1 {
+	text-align: center;
+}
